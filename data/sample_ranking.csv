@@ -1,0 +1,7 @@
+rank,url,caption,start_time,end_time,detection_mode,horizontal_flip
+6,https://www.w3schools.com/html/mov_bbb.mp4,Aaah,,  ,auto,true
+5,https://www.w3schools.com/html/movie.mp4,So close,2.1,5.8,manual,false
+4,https://www.w3schools.com/html/mov_bbb.mp4,No way,,,center,false
+3,https://example.com/invalid.mp4,broken demo,,,auto,false
+2,https://www.w3schools.com/html/movie.mp4,Epic save,1.0,4.0,manual,true
+1,https://www.w3schools.com/html/mov_bbb.mp4,Number one,,,auto,false

@@ -1,0 +1,62 @@
+{
+  "project_title": "Ranking Best Pool Fails",
+  "output_resolution": "1080x1920",
+  "transition_style": "fade",
+  "style_preset": "default",
+  "clips": [
+    {
+      "rank": 6,
+      "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "caption": "Aaah",
+      "start_time": null,
+      "end_time": null,
+      "detection_mode": "auto",
+      "horizontal_flip": true
+    },
+    {
+      "rank": 5,
+      "url": "https://www.w3schools.com/html/movie.mp4",
+      "caption": "So close",
+      "start_time": 2.1,
+      "end_time": 5.8,
+      "detection_mode": "manual",
+      "horizontal_flip": false
+    },
+    {
+      "rank": 4,
+      "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "caption": "No way",
+      "start_time": null,
+      "end_time": null,
+      "detection_mode": "center",
+      "horizontal_flip": false
+    },
+    {
+      "rank": 3,
+      "url": "https://example.com/invalid-link.mp4",
+      "caption": "broken demo",
+      "start_time": null,
+      "end_time": null,
+      "detection_mode": "auto",
+      "horizontal_flip": false
+    },
+    {
+      "rank": 2,
+      "url": "https://www.w3schools.com/html/movie.mp4",
+      "caption": "Epic save",
+      "start_time": 1.0,
+      "end_time": 4.0,
+      "detection_mode": "manual",
+      "horizontal_flip": true
+    },
+    {
+      "rank": 1,
+      "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+      "caption": "Number one",
+      "start_time": null,
+      "end_time": null,
+      "detection_mode": "auto",
+      "horizontal_flip": false
+    }
+  ]
+}
